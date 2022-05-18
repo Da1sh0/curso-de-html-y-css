@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(37, 36, 36);
+    padding: 25px;
+}
+nav{
+    color: crimson;
+    text-align: center;
+}
+li{
+    color: cornflowerblue;
+}
+ol{
+    color: azure;
+}

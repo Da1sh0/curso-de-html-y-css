@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 1.6rem;
+}
+.container{
+    border: 0.3rem solid black;
+    margin: 2rem;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    
+}
+.box{
+    width: 10rem;
+    height: 10rem;
+}
+.box1{
+    background-color: blueviolet;
+}
+.box2{
+    background-color: darkcyan;
+}
+.box3{
+    background-color: yellowgreen;
+}
+.box4{
+    background-color: hotpink;
+}
+.box5{
+    background-color: goldenrod;
+}
+.box6{
+    background-color: skyblue;
+}
